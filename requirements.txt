@@ -1,0 +1,10 @@
+# Core dependencies for rsync quick action
+# tkinter is included with Python on macOS, but we'll list it for documentation
+# subprocess and pathlib are part of Python standard library
+
+# Testing frameworks
+pytest>=7.0.0
+hypothesis>=6.0.0
+
+# Additional utilities that might be useful
+psutil>=5.9.0  # For system information and process management
