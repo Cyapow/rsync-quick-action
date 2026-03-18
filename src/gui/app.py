@@ -29,7 +29,7 @@ class RsyncQuickActionApp:
 
         self.root = tk.Tk()
         self.root.title("Rsync to Drive")
-        self.root.geometry("600x420")
+        self.root.geometry("600x430")
 
         self.drive_list = None
         self.destination_var = tk.StringVar(value="")
